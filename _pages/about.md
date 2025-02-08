@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student at National University of Singapore (NUS) supervised by [Prof. Jin Song Dong](https://www.comp.nus.edu.sg/~dongjs/) and [Prof. Yun Lin](http://linyun.info). 
-
+I am a first-year PhD student at National University of Singapore (NUS) supervised by [Prof. Jin Song Dong](https://www.comp.nus.edu.sg/~dongjs/) and [Prof. Yun Lin](http://linyun.info). Before this, I obtained Bachelors Degree (First Class Honours) at NUS with a double major in Computer Science and Statistics.
 
 My research interests include Debugging Aids and Fault Localization.
 
@@ -32,13 +31,13 @@ Projects
 Education
 ======
 - 2024 - Present, PhD in Computer Science, National University of Singapore (NUS)
-- 2020 - 2024, Bachelor of Computing (double major in computer science and statistics), National University of Singapore (NUS)
+- 2020 - 2024, Bachelor of Computing (double major in computer science and statistics, graduated with **First Class Honours**), National University of Singapore (NUS)
 
 Selected Awards
 ======
 - [2024] **Bronze Medal** in the *China International College Students’ Innovation Competition*
 - [2023] **3rd prize** in the *Software Research Achievement Prototype System Competition* in CCF ChinaSoft
 - [2022] **Dean's List (5%)** at *NUS School of Computing*
-- [2019] **Certificate of Excellence for Science and Mathematics** issued by *Engineers Australia*
-- [2019] **Special Subject Certificate of Excellence** in Chemistry and Mathematics Methods issued by the *School Curriculum and Standards Authority (SCSA Australia)*
-- [2018] **Cheryl Praeger Medal** in the *Australian Mathematics Competition (AMC)*, senior level. (female student with the highest score in Australia)
+- [2019] **Certificate of Excellence for Science and Mathematics** issued by *Institution of Engineers, Australia*
+- [2019] **Special Subject Certificate of Excellence (0.5%)** in Chemistry and Mathematics Methods issued by the *School Curriculum and Standards Authority (SCSA Australia)*
+- [2018] **Cheryl Praeger Medal (Top 1 female contestant in Australia)** in the *Australian Mathematics Competition (AMC)*, senior level.
