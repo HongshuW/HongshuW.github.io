@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student at National University of Singapore (NUS) supervised by [Prof. Jin Song Dong](https://www.comp.nus.edu.sg/~dongjs/) and [Prof. Yun Lin](http://linyun.info). Before this, I obtained Bachelors Degree (First Class Honours) at NUS with a double major in Computer Science and Statistics.
+I am a first-year PhD student at [National University of Singapore (NUS)](https://www.nus.edu.sg) supervised by [Prof. Jin Song Dong](https://www.comp.nus.edu.sg/~dongjs/) and [Prof. Yun Lin](http://linyun.info). Before this, I obtained Bachelors Degree (First Class Honours) at NUS with a double major in Computer Science and Statistics.
 
 My research interests include Debugging Aids and Fault Localization.
 
