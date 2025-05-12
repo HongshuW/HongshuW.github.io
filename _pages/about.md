@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student at [National University of Singapore (NUS)](https://www.nus.edu.sg) supervised by [Prof. Jin Song Dong](https://www.comp.nus.edu.sg/~dongjs/), and I collaborate with [Prof. Yun Lin](http://linyun.info). Before this, I obtained Bachelor's Degree (First Class Honours) at NUS with a double major in Computer Science and Statistics.
+I am a first-year PhD student at [National University of Singapore (NUS)](https://www.nus.edu.sg) supervised by [Prof. Jin Song Dong](https://www.comp.nus.edu.sg/~dongjs/). Before this, I obtained Bachelor's Degree (First Class Honours) at NUS with a double major in Computer Science and Statistics.
 
 My research interests include Formal Methods and Automata.
 
@@ -19,7 +19,7 @@ Projects
     <h3>Automating Software Debugging: An Approach to Travel Back to The Root Cause of Your Bug</h3>
     <p>
     Final Year Project (B.Comp. Dissertation)
-    Supervisors: <a href="https://www.comp.nus.edu.sg/~dongjs/">Prof. Jin Song Dong</a> and <a href="http://linyun.info">Prof. Yun Lin</a>
+    Supervisors: <a href="https://www.comp.nus.edu.sg/~dongjs/">Prof. Jin Song Dong</a>
     </p>
     <p></p>
     <a href="files/fyp/Hongshu_Wang_FYP_Final_Report.pdf">Paper</a> | <a href="files/fyp/FYP_final_presentation.pdf">Slides</a>
