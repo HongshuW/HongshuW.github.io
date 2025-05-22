@@ -9,7 +9,7 @@ redirect_from:
 
 I am a first-year PhD student at [National University of Singapore (NUS)](https://www.nus.edu.sg) supervised by [Prof. Jin Song Dong](https://www.comp.nus.edu.sg/~dongjs/). Before this, I obtained Bachelor's Degree (First Class Honours) at NUS with a double major in Computer Science and Statistics.
 
-My research interests include Formal Methods and Automata.
+My research interests are PL for AI and AI for PL.
 
 Projects
 ======
