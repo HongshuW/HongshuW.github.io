@@ -41,6 +41,6 @@ Selected Awards
 - [2019] **Special Subject Certificate of Excellence (0.5%)** in Chemistry and Mathematics Methods issued by the *School Curriculum and Standards Authority (SCSA Australia)*
 - [2018] **Cheryl Praeger Medal (Top 1 female contestant in Australia)** in the *Australian Mathematics Competition (AMC)*, senior level.
 
-Teaching
+Teaching (TA)
 ======
 - CP2107 Independent Introduction to CS Research (Odyssey) - AY24/25 Summer Vacation
