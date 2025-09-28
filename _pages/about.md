@@ -7,26 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student at [National University of Singapore (NUS)](https://www.nus.edu.sg) supervised by [Prof. Jin Song Dong](https://www.comp.nus.edu.sg/~dongjs/). Before this, I obtained Bachelor's Degree (First Class Honours) at NUS with a double major in Computer Science and Statistics.
+I am a second-year PhD student at [National University of Singapore (NUS)](https://www.nus.edu.sg) supervised by [Prof. Jin Song Dong](https://www.comp.nus.edu.sg/~dongjs/). Before this, I obtained Bachelor's Degree (First Class Honours) at NUS with a double major in Computer Science and Statistics.
 
-My research interests are PL for AI and AI for PL.
-
-Projects
-======
-<div style="padding-bottom: 20px;">
-  <img src="/images/fyp/fyp.png" alt="Approach Overview" style="border: 1px solid #B2B2B2; padding: 5px;float: left;margin-right: 20px;" width="375" height="250">
-  <div>
-    <h3>Automating Software Debugging: An Approach to Travel Back to The Root Cause of Your Bug</h3>
-    <p>
-    Final Year Project (B.Comp. Dissertation)
-    Supervisors: <a href="https://www.comp.nus.edu.sg/~dongjs/">Prof. Jin Song Dong</a>
-    </p>
-    <p></p>
-    <a href="files/fyp/Hongshu_Wang_FYP_Final_Report.pdf">Paper</a> | <a href="files/fyp/FYP_final_presentation.pdf">Slides</a>
-  </div>
-</div>
-
-<div style="padding-bottom: 20px;"></div>
+My research interests are formal methods, PL for AI and AI for PL.
 
 Education
 ======
@@ -44,3 +27,4 @@ Selected Awards
 Teaching (TA)
 ======
 - CP2107 Independent Introduction to CS Research (Odyssey) - AY24/25 Summer Vacation
+- CS1101S Programming Methodology - AY25/26 Semester 1
