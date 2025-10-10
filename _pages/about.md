@@ -18,10 +18,7 @@ Education
 
 Selected Awards
 ======
-- [2023] **3rd prize** in the *Software Research Achievement Prototype System Competition* in CCF ChinaSoft
-- [2022] **Dean's List (5%)** at *NUS School of Computing*
-- [2019] **Certificate of Excellence for Science and Mathematics** issued by *Institution of Engineers, Australia*
-- [2019] **Special Subject Certificate of Excellence (0.5%)** in Chemistry and Mathematics Methods issued by the *School Curriculum and Standards Authority (SCSA Australia)*
+- [2023] **3rd prize** in the *Software Research Achievement Prototype System Competition* in CCF ChinaSoft.
 - [2018] **Cheryl Praeger Medal (Top 1 female contestant in Australia)** in the *Australian Mathematics Competition (AMC)*, senior level.
 
 Teaching (TA)
