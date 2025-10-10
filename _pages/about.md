@@ -16,6 +16,10 @@ Education
 - 2024 - Present, PhD in Computer Science, National University of Singapore (NUS)
 - 2020 - 2024, Bachelor of Computing (double major in computer science and statistics, graduated with **First Class Honours**), National University of Singapore (NUS)
 
+Selected Publications
+=====
+**ASE 2025** [PAT-Agent: Autoformalization for Model Checking](https://arxiv.org/pdf/2509.23675) Xinyue Zuo, Yifan Zhang, _Hongshu Wang_, Yufan Cai, Zhe Hou, Jing Sun, Jin Song Dong
+
 Selected Awards
 ======
 - [2023] **3rd prize** in the *Software Research Achievement Prototype System Competition* in CCF ChinaSoft.

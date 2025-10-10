@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025-09-pat-agent
 excerpt: ''
 date: 2025-09
-venue: 'International Conference on Automated Software Engineering (ASE) 2025'
+venue: 'International Conference on Automated Software Engineering (ASE)'
 paperurl: 'https://arxiv.org/pdf/2509.23675'
 citation: ''
 ---
