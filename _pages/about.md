@@ -18,7 +18,9 @@ Education
 
 Selected Publications
 =====
-**ASE 2025** [PAT-Agent: Autoformalization for Model Checking](https://arxiv.org/pdf/2509.23675) Xinyue Zuo, Yifan Zhang, _Hongshu Wang_, Yufan Cai, Zhe Hou, Jing Sun, Jin Song Dong
+**ASE 2025**\
+[PAT-Agent: Autoformalization for Model Checking](https://arxiv.org/pdf/2509.23675)\
+Xinyue Zuo, Yifan Zhang, **Hongshu Wang**, Yufan Cai, Zhe Hou, Jing Sun, Jin Song Dong
 
 Selected Awards
 ======
