@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student at [National University of Singapore (NUS)](https://www.nus.edu.sg) supervised by [Prof. Jin Song Dong](https://www.comp.nus.edu.sg/~dongjs/). Before this, I obtained Bachelor's Degree (First Class Honours) at NUS with a double major in Computer Science and Statistics.
+I am a PhD student at [National University of Singapore (NUS)](https://www.nus.edu.sg) supervised by [Prof. Jin Song Dong](https://www.comp.nus.edu.sg/~dongjs/). Before this, I obtained Bachelor's Degree (First Class Honours) at NUS with a double major in Computer Science and Statistics.
 
 My research interests are formal methods, programming languages, and software engineering.
 
@@ -18,10 +18,10 @@ Education
 
 Selected Publications
 =====
-**ASE 2025**\
+**[ASE 2025]**
 PAT-Agent: Autoformalization for Model Checking\
+Xinyue Zuo, Yifan Zhang, **Hongshu Wang**, Yufan Cai, Zhe Hou, Jing Sun, Jin Song Dong\
 [paper](https://arxiv.org/pdf/2509.23675)\
-Xinyue Zuo, Yifan Zhang, **Hongshu Wang**, Yufan Cai, Zhe Hou, Jing Sun, Jin Song Dong
 
 Selected Awards
 ======
