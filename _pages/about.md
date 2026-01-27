@@ -32,3 +32,5 @@ Teaching (TA)
 ======
 - CP2107 Independent Introduction to CS Research (Odyssey) - AY24/25 Summer Vacation
 - CS1101S Programming Methodology - AY25/26 Semester 1
+- CS4211 Formal Methods for Software Engineering - AY25/26 Semester 2
+- CS6218 Principles of Prog. Languages & Software Engineering - AY25/26 Semester 2
