@@ -21,6 +21,7 @@ Selected Publications
 **[FSE 2026]**
 Event-B Agent: Towards LLM Agent for Formal Model Synthesis and Repair\
 **Hongshu Wang**, Xinyue Zuo, Yuhan Sun, Qin Li, Yamine Ait Ameur, Jin Song Dong\
+[paper](files/Event_B_Agent(FSE26).pdf)|[code](https://github.com/HongshuW/EventB_Agent)
 
 **[ASE 2025]**
 PAT-Agent: Autoformalization for Model Checking\
