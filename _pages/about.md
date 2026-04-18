@@ -18,6 +18,10 @@ Education
 
 Selected Publications
 =====
+**[FSE 2026]**
+Event-B Agent: Towards LLM Agent for Formal Model Synthesis and Repair\
+**Hongshu Wang**, Xinyue Zuo, Yuhan Sun, Qin Li, Yamine Ait Ameur, Jin Song Dong\
+
 **[ASE 2025]**
 PAT-Agent: Autoformalization for Model Checking\
 Xinyue Zuo, Yifan Zhang, **Hongshu Wang**, Yufan Cai, Zhe Hou, Jing Sun, Jin Song Dong\
