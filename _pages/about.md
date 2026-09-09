@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at [National University of Singapore (NUS)](https://www.nus.edu.sg) supervised by [Prof. Jin Song Dong](https://www.comp.nus.edu.sg/~dongjs/). Before this, I obtained Bachelor's Degree (First Class Honours) at NUS with a double major in Computer Science and Statistics.
+I am a PhD student at [National University of Singapore (NUS)](https://www.nus.edu.sg) supervised by [Prof. Jin Song Dong](https://www.comp.nus.edu.sg/~dongjs/). Before this, I obtained Bachelor's Degree at NUS with a double major in Computer Science and Statistics.
 
 My research interests are formal methods, programming languages, and software engineering.
 
@@ -21,7 +21,7 @@ Selected Publications
 **[FSE 2026]**
 Event-B Agent: Towards LLM Agent for Formal Model Synthesis and Repair\
 **Hongshu Wang**, Xinyue Zuo, Yuhan Sun, Qin Li, Yamine Ait Ameur, Jin Song Dong\
-[paper](files/Event_B_Agent(FSE26).pdf) | [code](https://github.com/HongshuW/EventB_Agent)
+[paper](files/Event_B_Agent(FSE26).pdf) | [code](https://github.com/HongshuW/EventB_Agent) | [poster](files/Event_B_Agent_Poster.pdf)
 
 **[ASE 2025]**
 PAT-Agent: Autoformalization for Model Checking\
