@@ -18,6 +18,8 @@ Education
 
 Selected Publications
 =====
+[See all publications](/publications/)
+
 **[FSE 2026]**
 Event-B Agent: Towards LLM Agent for Formal Model Synthesis and Repair\
 **Hongshu Wang**, Xinyue Zuo, Yuhan Sun, Qin Li, Yamine Ait Ameur, Jin Song Dong\
