@@ -1,0 +1,13 @@
+<div class="publication-list">
+  {% assign listed_year = '' %}
+  {% for publication in site.data.publications %}
+    {% if include.selected_only != true or publication.selected == true %}
+      {% assign publication_year = publication.year | append: '' %}
+      {% if include.selected_only != true and listed_year != publication_year %}
+        <h2 class="publication-list__year">{{ publication_year }}</h2>
+        {% assign listed_year = publication_year %}
+      {% endif %}
+      {% include publication-entry.html publication=publication %}
+    {% endif %}
+  {% endfor %}
+</div>

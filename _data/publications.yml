@@ -1,0 +1,47 @@
+- year: 2026
+  venue: CACM
+  title: Synergizing LLMs and Formal Methods for Neural-Symbolic Reasoning
+  authors:
+    - Jin Song Dong
+    - Yufan Cai
+    - Zhe Hou
+    - Jing Sun
+    - Hongshu Wang
+    - Yedi Zhang
+    - Xinyue Zuo
+  links:
+    - label: Paper
+      url: https://dl.acm.org/doi/full/10.1145/3812808
+
+- year: 2026
+  venue: FSE
+  title: 'Event-B Agent: Towards LLM Agent for Formal Model Synthesis and Repair'
+  selected: true
+  authors:
+    - Hongshu Wang
+    - Xinyue Zuo
+    - Yuhan Sun
+    - Qin Li
+    - Yamine Ait Ameur
+    - Jin Song Dong
+  links:
+    - label: Paper
+      url: /files/Event_B_Agent(FSE26).pdf
+    - label: Code
+      url: https://github.com/HongshuW/EventB_Agent
+
+- year: 2025
+  venue: ASE
+  title: 'PAT-Agent: Autoformalization for Model Checking'
+  selected: true
+  authors:
+    - Xinyue Zuo
+    - Yifan Zhang
+    - Hongshu Wang
+    - Yufan Cai
+    - Zhe Hou
+    - Jing Sun
+    - Jin Song Dong
+  links:
+    - label: Paper
+      url: https://arxiv.org/pdf/2509.23675
